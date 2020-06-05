@@ -1,0 +1,560 @@
+Date,Transport Type,Percentage
+16/3/2020,Car,96%
+17/3/2020,Car,87%
+18/3/2020,Car,80%
+19/3/2020,Car,79%
+20/3/2020,Car,78%
+21/3/2020,Car,70%
+22/3/2020,Car,66%
+23/3/2020,Car,64%
+24/3/2020,Car,44%
+25/3/2020,Car,37%
+26/3/2020,Car,35%
+27/3/2020,Car,35%
+28/3/2020,Car,27%
+29/3/2020,Car,23%
+30/3/2020,Car,33%
+31/3/2020,Car,32%
+1/4/2020,Car,32%
+2/4/2020,Car,32%
+3/4/2020,Car,34%
+4/4/2020,Car,28%
+5/4/2020,Car,25%
+6/4/2020,Car,33%
+7/4/2020,Car,33%
+8/4/2020,Car,34%
+9/4/2020,Car,36%
+10/4/2020,Car,27%
+11/4/2020,Car,29%
+12/4/2020,Car,22%
+13/4/2020,Car,23%
+14/4/2020,Car,35%
+15/4/2020,Car,34%
+16/4/2020,Car,34%
+17/4/2020,Car,35%
+18/4/2020,Car,31%
+19/4/2020,Car,29%
+20/4/2020,Car,38%
+21/4/2020,Car,37%
+22/4/2020,Car,37%
+23/4/2020,Car,37%
+24/4/2020,Car,39%
+25/4/2020,Car,35%
+26/4/2020,Car,32%
+27/4/2020,Car,40%
+28/4/2020,Car,37%
+29/4/2020,Car,38%
+30/4/2020,Car,39%
+1/5/2020,Car,40%
+2/5/2020,Car,38%
+3/5/2020,Car,34%
+4/5/2020,Car,42%
+5/5/2020,Car,42%
+6/5/2020,Car,43%
+7/5/2020,Car,45%
+8/5/2020,Car,33%
+9/5/2020,Car,38%
+10/5/2020,Car,35%
+11/5/2020,Car,45%
+12/5/2020,Car,45%
+13/5/2020,Car,48%
+14/5/2020,Car,49%
+15/5/2020,Car,51%
+16/5/2020,Car,52%
+17/5/2020,Car,50%
+18/5/2020,Car,53%
+19/5/2020,Car,54%
+20/5/2020,Car,56%
+21/5/2020,Car,54%
+22/5/2020,Car,56%
+23/5/2020,Car,55%
+24/5/2020,Car,55%
+25/5/2020,Car,51%
+26/5/2020,Car,59%
+27/5/2020,Car,59%
+28/5/2020,Car,59%
+29/5/2020,Car,62%
+16/3/2020,Light Commerical Vehicles,103%
+17/3/2020,Light Commerical Vehicles,95%
+18/3/2020,Light Commerical Vehicles,90%
+19/3/2020,Light Commerical Vehicles,88%
+20/3/2020,Light Commerical Vehicles,85%
+21/3/2020,Light Commerical Vehicles,79%
+22/3/2020,Light Commerical Vehicles,73%
+23/3/2020,Light Commerical Vehicles,77%
+24/3/2020,Light Commerical Vehicles,55%
+25/3/2020,Light Commerical Vehicles,47%
+26/3/2020,Light Commerical Vehicles,43%
+27/3/2020,Light Commerical Vehicles,42%
+28/3/2020,Light Commerical Vehicles,34%
+29/3/2020,Light Commerical Vehicles,29%
+30/3/2020,Light Commerical Vehicles,41%
+31/3/2020,Light Commerical Vehicles,39%
+1/4/2020,Light Commerical Vehicles,39%
+2/4/2020,Light Commerical Vehicles,38%
+3/4/2020,Light Commerical Vehicles,40%
+4/4/2020,Light Commerical Vehicles,34%
+5/4/2020,Light Commerical Vehicles,30%
+6/4/2020,Light Commerical Vehicles,42%
+7/4/2020,Light Commerical Vehicles,41%
+8/4/2020,Light Commerical Vehicles,41%
+9/4/2020,Light Commerical Vehicles,43%
+10/4/2020,Light Commerical Vehicles,27%
+11/4/2020,Light Commerical Vehicles,35%
+12/4/2020,Light Commerical Vehicles,26%
+13/4/2020,Light Commerical Vehicles,22%
+14/4/2020,Light Commerical Vehicles,44%
+15/4/2020,Light Commerical Vehicles,44%
+16/4/2020,Light Commerical Vehicles,42%
+17/4/2020,Light Commerical Vehicles,43%
+18/4/2020,Light Commerical Vehicles,38%
+19/4/2020,Light Commerical Vehicles,36%
+20/4/2020,Light Commerical Vehicles,48%
+21/4/2020,Light Commerical Vehicles,47%
+22/4/2020,Light Commerical Vehicles,47%
+23/4/2020,Light Commerical Vehicles,46%
+24/4/2020,Light Commerical Vehicles,46%
+25/4/2020,Light Commerical Vehicles,43%
+26/4/2020,Light Commerical Vehicles,39%
+27/4/2020,Light Commerical Vehicles,51%
+28/4/2020,Light Commerical Vehicles,48%
+29/4/2020,Light Commerical Vehicles,49%
+30/4/2020,Light Commerical Vehicles,48%
+1/5/2020,Light Commerical Vehicles,50%
+2/5/2020,Light Commerical Vehicles,47%
+3/5/2020,Light Commerical Vehicles,42%
+4/5/2020,Light Commerical Vehicles,54%
+5/5/2020,Light Commerical Vehicles,54%
+6/5/2020,Light Commerical Vehicles,55%
+7/5/2020,Light Commerical Vehicles,55%
+8/5/2020,Light Commerical Vehicles,33%
+9/5/2020,Light Commerical Vehicles,46%
+10/5/2020,Light Commerical Vehicles,44%
+11/5/2020,Light Commerical Vehicles,58%
+12/5/2020,Light Commerical Vehicles,59%
+13/5/2020,Light Commerical Vehicles,61%
+14/5/2020,Light Commerical Vehicles,60%
+15/5/2020,Light Commerical Vehicles,61%
+16/5/2020,Light Commerical Vehicles,64%
+17/5/2020,Light Commerical Vehicles,63%
+18/5/2020,Light Commerical Vehicles,67%
+19/5/2020,Light Commerical Vehicles,67%
+20/5/2020,Light Commerical Vehicles,67%
+21/5/2020,Light Commerical Vehicles,66%
+22/5/2020,Light Commerical Vehicles,67%
+23/5/2020,Light Commerical Vehicles,68%
+24/5/2020,Light Commerical Vehicles,67%
+25/5/2020,Light Commerical Vehicles,46%
+26/5/2020,Light Commerical Vehicles,72%
+27/5/2020,Light Commerical Vehicles,72%
+28/5/2020,Light Commerical Vehicles,71%
+29/5/2020,Light Commerical Vehicles,72%
+16/3/2020,Heavy Goods Vehicles,104%
+17/3/2020,Heavy Goods Vehicles,103%
+18/3/2020,Heavy Goods Vehicles,100%
+19/3/2020,Heavy Goods Vehicles,100%
+20/3/2020,Heavy Goods Vehicles,98%
+21/3/2020,Heavy Goods Vehicles,102%
+22/3/2020,Heavy Goods Vehicles,101%
+23/3/2020,Heavy Goods Vehicles,97%
+24/3/2020,Heavy Goods Vehicles,84%
+25/3/2020,Heavy Goods Vehicles,77%
+26/3/2020,Heavy Goods Vehicles,72%
+27/3/2020,Heavy Goods Vehicles,69%
+28/3/2020,Heavy Goods Vehicles,71%
+29/3/2020,Heavy Goods Vehicles,72%
+30/3/2020,Heavy Goods Vehicles,64%
+31/3/2020,Heavy Goods Vehicles,62%
+1/4/2020,Heavy Goods Vehicles,61%
+2/4/2020,Heavy Goods Vehicles,60%
+3/4/2020,Heavy Goods Vehicles,60%
+4/4/2020,Heavy Goods Vehicles,66%
+5/4/2020,Heavy Goods Vehicles,70%
+6/4/2020,Heavy Goods Vehicles,61%
+7/4/2020,Heavy Goods Vehicles,60%
+8/4/2020,Heavy Goods Vehicles,62%
+9/4/2020,Heavy Goods Vehicles,61%
+10/4/2020,Heavy Goods Vehicles,33%
+11/4/2020,Heavy Goods Vehicles,55%
+12/4/2020,Heavy Goods Vehicles,50%
+13/4/2020,Heavy Goods Vehicles,25%
+14/4/2020,Heavy Goods Vehicles,60%
+15/4/2020,Heavy Goods Vehicles,63%
+16/4/2020,Heavy Goods Vehicles,63%
+17/4/2020,Heavy Goods Vehicles,63%
+18/4/2020,Heavy Goods Vehicles,71%
+19/4/2020,Heavy Goods Vehicles,73%
+20/4/2020,Heavy Goods Vehicles,65%
+21/4/2020,Heavy Goods Vehicles,64%
+22/4/2020,Heavy Goods Vehicles,65%
+23/4/2020,Heavy Goods Vehicles,64%
+24/4/2020,Heavy Goods Vehicles,65%
+25/4/2020,Heavy Goods Vehicles,71%
+26/4/2020,Heavy Goods Vehicles,75%
+27/4/2020,Heavy Goods Vehicles,68%
+28/4/2020,Heavy Goods Vehicles,67%
+29/4/2020,Heavy Goods Vehicles,68%
+30/4/2020,Heavy Goods Vehicles,67%
+1/5/2020,Heavy Goods Vehicles,66%
+2/5/2020,Heavy Goods Vehicles,72%
+3/5/2020,Heavy Goods Vehicles,76%
+4/5/2020,Heavy Goods Vehicles,70%
+5/5/2020,Heavy Goods Vehicles,71%
+6/5/2020,Heavy Goods Vehicles,73%
+7/5/2020,Heavy Goods Vehicles,71%
+8/5/2020,Heavy Goods Vehicles,35%
+9/5/2020,Heavy Goods Vehicles,65%
+10/5/2020,Heavy Goods Vehicles,77%
+11/5/2020,Heavy Goods Vehicles,74%
+12/5/2020,Heavy Goods Vehicles,74%
+13/5/2020,Heavy Goods Vehicles,76%
+14/5/2020,Heavy Goods Vehicles,75%
+15/5/2020,Heavy Goods Vehicles,74%
+16/5/2020,Heavy Goods Vehicles,80%
+17/5/2020,Heavy Goods Vehicles,84%
+18/5/2020,Heavy Goods Vehicles,79%
+19/5/2020,Heavy Goods Vehicles,79%
+20/5/2020,Heavy Goods Vehicles,80%
+21/5/2020,Heavy Goods Vehicles,80%
+22/5/2020,Heavy Goods Vehicles,79%
+23/5/2020,Heavy Goods Vehicles,84%
+24/5/2020,Heavy Goods Vehicles,80%
+25/5/2020,Heavy Goods Vehicles,34%
+26/5/2020,Heavy Goods Vehicles,80%
+27/5/2020,Heavy Goods Vehicles,84%
+28/5/2020,Heavy Goods Vehicles,83%
+29/5/2020,Heavy Goods Vehicles,83%
+16/3/2020,National Rail,78%
+17/3/2020,National Rail,69%
+18/3/2020,National Rail,59%
+19/3/2020,National Rail,51%
+20/3/2020,National Rail,43%
+21/3/2020,National Rail,37%
+22/3/2020,National Rail,33%
+23/3/2020,National Rail,25%
+24/3/2020,National Rail,20%
+25/3/2020,National Rail,16%
+26/3/2020,National Rail,13%
+27/3/2020,National Rail,10%
+28/3/2020,National Rail,9%
+29/3/2020,National Rail,8%
+30/3/2020,National Rail,6%
+31/3/2020,National Rail,5%
+1/4/2020,National Rail,5%
+2/4/2020,National Rail,5%
+3/4/2020,National Rail,5%
+4/4/2020,National Rail,5%
+5/4/2020,National Rail,5%
+6/4/2020,National Rail,5%
+7/4/2020,National Rail,5%
+8/4/2020,National Rail,5%
+9/4/2020,National Rail,5%
+10/4/2020,National Rail,4%
+11/4/2020,National Rail,4%
+12/4/2020,National Rail,4%
+13/4/2020,National Rail,4%
+14/4/2020,National Rail,4%
+15/4/2020,National Rail,4%
+16/4/2020,National Rail,4%
+17/4/2020,National Rail,5%
+18/4/2020,National Rail,5%
+19/4/2020,National Rail,5%
+20/4/2020,National Rail,6%
+21/4/2020,National Rail,5%
+22/4/2020,National Rail,5%
+23/4/2020,National Rail,5%
+24/4/2020,National Rail,4%
+25/4/2020,National Rail,4%
+26/4/2020,National Rail,4%
+27/4/2020,National Rail,4%
+28/4/2020,National Rail,4%
+29/4/2020,National Rail,4%
+30/4/2020,National Rail,4%
+1/5/2020,National Rail,4%
+2/5/2020,National Rail,4%
+3/5/2020,National Rail,4%
+4/5/2020,National Rail,5%
+5/5/2020,National Rail,5%
+6/5/2020,National Rail,5%
+7/5/2020,National Rail,5%
+8/5/2020,National Rail,5%
+9/5/2020,National Rail,5%
+10/5/2020,National Rail,5%
+11/5/2020,National Rail,5%
+12/5/2020,National Rail,5%
+13/5/2020,National Rail,5%
+14/5/2020,National Rail,5%
+15/5/2020,National Rail,6%
+16/5/2020,National Rail,6%
+17/5/2020,National Rail,6%
+18/5/2020,National Rail,6%
+19/5/2020,National Rail,7%
+20/5/2020,National Rail,7%
+21/5/2020,National Rail,7%
+22/5/2020,National Rail,7%
+23/5/2020,National Rail,7%
+24/5/2020,National Rail,7%
+25/5/2020,National Rail,7%
+26/5/2020,National Rail,6%
+27/5/2020,National Rail,6%
+28/5/2020,National Rail,5%
+29/5/2020,National Rail,5%
+16/3/2020,TfL Tube,60%
+17/3/2020,TfL Tube,44%
+18/3/2020,TfL Tube,35%
+19/3/2020,TfL Tube,30%
+20/3/2020,TfL Tube,24%
+21/3/2020,TfL Tube,13%
+22/3/2020,TfL Tube,11%
+23/3/2020,TfL Tube,15%
+24/3/2020,TfL Tube,9%
+25/3/2020,TfL Tube,7%
+26/3/2020,TfL Tube,6%
+27/3/2020,TfL Tube,6%
+28/3/2020,TfL Tube,4%
+29/3/2020,TfL Tube,4%
+30/3/2020,TfL Tube,5%
+31/3/2020,TfL Tube,5%
+1/4/2020,TfL Tube,5%
+2/4/2020,TfL Tube,5%
+3/4/2020,TfL Tube,5%
+4/4/2020,TfL Tube,4%
+5/4/2020,TfL Tube,4%
+6/4/2020,TfL Tube,5%
+7/4/2020,TfL Tube,5%
+8/4/2020,TfL Tube,5%
+9/4/2020,TfL Tube,5%
+10/4/2020,TfL Tube,4%
+11/4/2020,TfL Tube,4%
+12/4/2020,TfL Tube,4%
+13/4/2020,TfL Tube,5%
+14/4/2020,TfL Tube,5%
+15/4/2020,TfL Tube,5%
+16/4/2020,TfL Tube,5%
+17/4/2020,TfL Tube,5%
+18/4/2020,TfL Tube,4%
+19/4/2020,TfL Tube,4%
+20/4/2020,TfL Tube,5%
+21/4/2020,TfL Tube,5%
+22/4/2020,TfL Tube,5%
+23/4/2020,TfL Tube,5%
+24/4/2020,TfL Tube,5%
+25/4/2020,TfL Tube,4%
+26/4/2020,TfL Tube,4%
+27/4/2020,TfL Tube,5%
+28/4/2020,TfL Tube,5%
+29/4/2020,TfL Tube,5%
+30/4/2020,TfL Tube,5%
+1/5/2020,TfL Tube,5%
+2/5/2020,TfL Tube,4%
+3/5/2020,TfL Tube,4%
+4/5/2020,TfL Tube,6%
+5/5/2020,TfL Tube,6%
+6/5/2020,TfL Tube,5%
+7/5/2020,TfL Tube,5%
+8/5/2020,TfL Tube,7%
+9/5/2020,TfL Tube,5%
+10/5/2020,TfL Tube,4%
+11/5/2020,TfL Tube,6%
+12/5/2020,TfL Tube,6%
+13/5/2020,TfL Tube,6%
+14/5/2020,TfL Tube,6%
+15/5/2020,TfL Tube,6%
+16/5/2020,TfL Tube,5%
+17/5/2020,TfL Tube,5%
+18/5/2020,TfL Tube,7%
+19/5/2020,TfL Tube,7%
+20/5/2020,TfL Tube,7%
+21/5/2020,TfL Tube,7%
+22/5/2020,TfL Tube,8%
+23/5/2020,TfL Tube,6%
+24/5/2020,TfL Tube,6%
+25/5/2020,TfL Tube,9%
+26/5/2020,TfL Tube,9%
+27/5/2020,TfL Tube,8%
+28/5/2020,TfL Tube,9%
+29/5/2020,TfL Tube,9%
+16/3/2020,TfL Bus,79%
+17/3/2020,TfL Bus,70%
+18/3/2020,TfL Bus,65%
+19/3/2020,TfL Bus,59%
+20/3/2020,TfL Bus,52%
+21/3/2020,TfL Bus,39%
+22/3/2020,TfL Bus,32%
+23/3/2020,TfL Bus,31%
+24/3/2020,TfL Bus,22%
+25/3/2020,TfL Bus,19%
+26/3/2020,TfL Bus,18%
+27/3/2020,TfL Bus,18%
+28/3/2020,TfL Bus,17%
+29/3/2020,TfL Bus,16%
+30/3/2020,TfL Bus,17%
+31/3/2020,TfL Bus,17%
+1/4/2020,TfL Bus,16%
+2/4/2020,TfL Bus,16%
+3/4/2020,TfL Bus,16%
+4/4/2020,TfL Bus,17%
+5/4/2020,TfL Bus,17%
+6/4/2020,TfL Bus,18%
+7/4/2020,TfL Bus,18%
+8/4/2020,TfL Bus,17%
+9/4/2020,TfL Bus,18%
+10/4/2020,TfL Bus,17%
+11/4/2020,TfL Bus,16%
+12/4/2020,TfL Bus,14%
+13/4/2020,TfL Bus,18%
+14/4/2020,TfL Bus,19%
+15/4/2020,TfL Bus,18%
+16/4/2020,TfL Bus,18%
+17/4/2020,TfL Bus,18%
+18/4/2020,TfL Bus,16%
+16/3/2020,Non TfL Bus,88%
+17/3/2020,Non TfL Bus,77%
+18/3/2020,Non TfL Bus,62%
+19/3/2020,Non TfL Bus,58%
+20/3/2020,Non TfL Bus,53%
+21/3/2020,Non TfL Bus,40%
+22/3/2020,Non TfL Bus,35%
+23/3/2020,Non TfL Bus,27%
+24/3/2020,Non TfL Bus,17%
+25/3/2020,Non TfL Bus,14%
+26/3/2020,Non TfL Bus,13%
+27/3/2020,Non TfL Bus,14%
+28/3/2020,Non TfL Bus,12%
+29/3/2020,Non TfL Bus,13%
+30/3/2020,Non TfL Bus,12%
+31/3/2020,Non TfL Bus,12%
+1/4/2020,Non TfL Bus,11%
+2/4/2020,Non TfL Bus,11%
+3/4/2020,Non TfL Bus,12%
+4/4/2020,Non TfL Bus,11%
+5/4/2020,Non TfL Bus,12%
+6/4/2020,Non TfL Bus,11%
+7/4/2020,Non TfL Bus,11%
+8/4/2020,Non TfL Bus,10%
+9/4/2020,Non TfL Bus,12%
+10/4/2020,Non TfL Bus,12%
+11/4/2020,Non TfL Bus,10%
+12/4/2020,Non TfL Bus,10%
+13/4/2020,Non TfL Bus,12%
+14/4/2020,Non TfL Bus,12%
+15/4/2020,Non TfL Bus,10%
+16/4/2020,Non TfL Bus,11%
+17/4/2020,Non TfL Bus,11%
+18/4/2020,Non TfL Bus,11%
+19/4/2020,Non TfL Bus,13%
+20/4/2020,Non TfL Bus,12%
+21/4/2020,Non TfL Bus,11%
+22/4/2020,Non TfL Bus,11%
+23/4/2020,Non TfL Bus,11%
+24/4/2020,Non TfL Bus,12%
+25/4/2020,Non TfL Bus,12%
+26/4/2020,Non TfL Bus,13%
+27/4/2020,Non TfL Bus,12%
+28/4/2020,Non TfL Bus,11%
+29/4/2020,Non TfL Bus,11%
+30/4/2020,Non TfL Bus,11%
+1/5/2020,Non TfL Bus,12%
+2/5/2020,Non TfL Bus,12%
+3/5/2020,Non TfL Bus,13%
+4/5/2020,Non TfL Bus,12%
+5/5/2020,Non TfL Bus,12%
+6/5/2020,Non TfL Bus,12%
+7/5/2020,Non TfL Bus,13%
+8/5/2020,Non TfL Bus,
+9/5/2020,Non TfL Bus,13%
+10/5/2020,Non TfL Bus,13%
+11/5/2020,Non TfL Bus,12%
+12/5/2020,Non TfL Bus,13%
+13/5/2020,Non TfL Bus,12%
+14/5/2020,Non TfL Bus,13%
+15/5/2020,Non TfL Bus,13%
+16/5/2020,Non TfL Bus,13%
+17/5/2020,Non TfL Bus,15%
+18/5/2020,Non TfL Bus,14%
+19/5/2020,Non TfL Bus,14%
+20/5/2020,Non TfL Bus,13%
+21/5/2020,Non TfL Bus,13%
+22/5/2020,Non TfL Bus,14%
+23/5/2020,Non TfL Bus,14%
+24/5/2020,Non TfL Bus,16%
+25/5/2020,Non TfL Bus,19%
+26/5/2020,Non TfL Bus,15%
+27/5/2020,Non TfL Bus,14%
+28/5/2020,Non TfL Bus,14%
+29/5/2020,Non TfL Bus,15%
+16/3/2020,All motor vehicles,98%
+17/3/2020,All motor vehicles,89%
+18/3/2020,All motor vehicles,83%
+19/3/2020,All motor vehicles,82%
+20/3/2020,All motor vehicles,81%
+21/3/2020,All motor vehicles,73%
+22/3/2020,All motor vehicles,69%
+23/3/2020,All motor vehicles,69%
+24/3/2020,All motor vehicles,49%
+25/3/2020,All motor vehicles,42%
+26/3/2020,All motor vehicles,39%
+27/3/2020,All motor vehicles,38%
+28/3/2020,All motor vehicles,30%
+29/3/2020,All motor vehicles,25%
+30/3/2020,All motor vehicles,36%
+31/3/2020,All motor vehicles,36%
+1/4/2020,All motor vehicles,35%
+2/4/2020,All motor vehicles,35%
+3/4/2020,All motor vehicles,36%
+4/4/2020,All motor vehicles,31%
+5/4/2020,All motor vehicles,27%
+6/4/2020,All motor vehicles,37%
+7/4/2020,All motor vehicles,36%
+8/4/2020,All motor vehicles,37%
+9/4/2020,All motor vehicles,39%
+10/4/2020,All motor vehicles,27%
+11/4/2020,All motor vehicles,31%
+12/4/2020,All motor vehicles,24%
+13/4/2020,All motor vehicles,23%
+14/4/2020,All motor vehicles,38%
+15/4/2020,All motor vehicles,38%
+16/4/2020,All motor vehicles,38%
+17/4/2020,All motor vehicles,38%
+18/4/2020,All motor vehicles,33%
+19/4/2020,All motor vehicles,32%
+20/4/2020,All motor vehicles,41%
+21/4/2020,All motor vehicles,41%
+22/4/2020,All motor vehicles,41%
+23/4/2020,All motor vehicles,41%
+24/4/2020,All motor vehicles,42%
+25/4/2020,All motor vehicles,38%
+26/4/2020,All motor vehicles,35%
+27/4/2020,All motor vehicles,44%
+28/4/2020,All motor vehicles,41%
+29/4/2020,All motor vehicles,42%
+30/4/2020,All motor vehicles,42%
+1/5/2020,All motor vehicles,44%
+2/5/2020,All motor vehicles,40%
+3/5/2020,All motor vehicles,36%
+4/5/2020,All motor vehicles,46%
+5/5/2020,All motor vehicles,46%
+6/5/2020,All motor vehicles,47%
+7/5/2020,All motor vehicles,49%
+8/5/2020,All motor vehicles,34%
+9/5/2020,All motor vehicles,41%
+10/5/2020,All motor vehicles,37%
+11/5/2020,All motor vehicles,49%
+12/5/2020,All motor vehicles,50%
+13/5/2020,All motor vehicles,53%
+14/5/2020,All motor vehicles,53%
+15/5/2020,All motor vehicles,55%
+16/5/2020,All motor vehicles,56%
+17/5/2020,All motor vehicles,54%
+18/5/2020,All motor vehicles,58%
+19/5/2020,All motor vehicles,58%
+20/5/2020,All motor vehicles,60%
+21/5/2020,All motor vehicles,59%
+22/5/2020,All motor vehicles,59%
+23/5/2020,All motor vehicles,58%
+24/5/2020,All motor vehicles,59%
+25/5/2020,All motor vehicles,50%
+26/5/2020,All motor vehicles,63%
+27/5/2020,All motor vehicles,63%
+28/5/2020,All motor vehicles,64%
+29/5/2020,All motor vehicles,66%
