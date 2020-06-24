@@ -49,8 +49,8 @@ The `data` directory contains the data required for TfL and National Rail use pr
 
 - `Transport_Use_mar_may.csv` is the dataset showing COVID-19 pandemic transport use change from the baseline in the UK during March-May. Source: [Gov.uk](https://www.gov.uk/government/publications/slides-to-accompany-coronavirus-press-conference-30-march-2020)
 
-+ All the data required by the Bokeh app (Cases_Transport.csv  rail_poly_model.pkl  UK_mobility.csv
-London_mobility.csv  tfl_poly_model.pkl)
++ All the data required by the Bokeh app (`Cases_Transport.csv`  `rail_poly_model.pkl`  `UK_mobility.csv`
+`London_mobility.csv`  `tfl_poly_model.pkl`)
 
 ## System requirements 
 The Python version used for implementing the model is **3.7.3**.
