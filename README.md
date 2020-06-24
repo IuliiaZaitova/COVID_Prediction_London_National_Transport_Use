@@ -11,8 +11,7 @@ to run the Bokeh app representing the predictors and the results, run the follow
 ## Submitted Files
 
 - `UK_transport.ipynb` (Jupyter Notebook file) is the notebook used for exploratory analysis, implementing, testing and scoring the Polynomial Regression.
-- 
-=================================================================
+
 
 The `bokeh_app` directory contains all the files required for generating and running the Bokeh visualization app:
 
@@ -20,21 +19,19 @@ The `bokeh_app` directory contains all the files required for generating and run
 
 -`main.py` is a script to generate and run the Bokeh app.
 
-=================================================================
 
-        The `bokeh_app/data` directory contains the data required for interactive prediction and visualization:
+The `bokeh_app/data` directory contains the data required for interactive prediction and visualization:
 
-        -`Cases_Transport.csv` is the dataset prepared for visualizing n of cases (infection and death) and use of transport.
+-`Cases_Transport.csv` is the dataset prepared for visualizing n of cases (infection and death) and use of transport.
 
-        -`London_mobility.csv` is the dataset prepared for visualizing mobility change in London.
+-`London_mobility.csv` is the dataset prepared for visualizing mobility change in London.
 
-        -`UK_mobility.csv` is the dataset prepared for visualizing mobility change in UK.
+-`UK_mobility.csv` is the dataset prepared for visualizing mobility change in UK.
 
-        -`rail_poly_model.pkl` is the Polynomial Regression ML model for predicting National Rail use saved using `Pickle`.
+-`rail_poly_model.pkl` is the Polynomial Regression ML model for predicting National Rail use saved using `Pickle`.
 
-        -`tfl_poly_model.pkl` is the Polynomial Regression ML model for predicting TfL Use use saved using `Pickle`.
+-`tfl_poly_model.pkl` is the Polynomial Regression ML model for predicting TfL Use use saved using `Pickle`.
 
-=================================================================
 
 The `data` directory contains the data required for TfL and National Rail use prediction:
 
@@ -54,7 +51,7 @@ The `data` directory contains the data required for TfL and National Rail use pr
 
 + All the data required by the Bokeh app (Cases_Transport.csv  rail_poly_model.pkl  UK_mobility.csv
 London_mobility.csv  tfl_poly_model.pkl)
-=================================================================
+
 
 The Python version used for implementing the model is **3.7.3**.
 
