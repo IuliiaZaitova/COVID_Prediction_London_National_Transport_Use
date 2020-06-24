@@ -3,7 +3,7 @@ import os
 from bokeh.io import curdoc
 from bokeh.plotting import figure, show
 from bokeh.models import ColumnDataSource, BoxAnnotation, Toggle, HoverTool, Button
-from bokeh.layouts import row, column, gridplot, layout
+from bokeh.layouts import row, column, gridplot, layout, Spacer
 from bokeh.models.widgets import Tabs, Panel, DatePicker, Slider, PreText
 from bokeh.palettes import Dark2_5 as palette
 from bokeh.models import ColumnDataSource
@@ -432,13 +432,6 @@ datePicker_rail = DatePicker(title="Date", min_date=date(2020, 3, 1), max_date=d
 preidctToggle_rail = Button(label="Predict National Rail Demand")
 preidctToggle_rail.on_click(lambda event: update_rail())
 
-mobility = column(fig_london_mob, toggle_london_mob, fig_uk_mob, toggle_uk_mob)
-worldwide_cases = column(fig_deaths, toggle_deaths)
-uk_cases = column(fig_cases_uk, toggle_cases_uk)
-london_cases = column(fig_cases_london, toggle_cases_london)
-tfl_prediction = column(datePicker_tfl, newCasesWorld_tfl, mobility_tfl, preidctToggle_tfl, fig_tfl, toggle_tfl)
-rail_prediction = column(datePicker_rail, newCasesWorld_rail, mobility_rail, preidctToggle_rail, fig_rail, toggle_rail)
-
 # Add text
 pre = PreText(text="""
 Below you can find some Transport Demand Prediction-related visualizations:
@@ -449,42 +442,44 @@ according to your input data.
 To hide/show the variables, press on their name on the legend.
 To hide/show the period of the National Lockdown in the UK, press the green button under the plots.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-""",
-width=600, height=160)
+""")
 
 pre_uk = PreText(text="""
 The negative number of cases in the UK on March 21 represents a recalculation that was done on that day.
-""",
-width=500, height=100)
+""")
 
 pre_pred_tfl = PreText(text="""
 To see how TfL Tube use would change according to the changing number of cases worldwide
 and the change in mobility in % (I used transit station mobility change, as the variable most 
-correlating with TfL Use), choose the date, number of cases, and mobility change %.
+correlating with TfL Use), choose the date, number of cases, and mobility change %,
+then press 'Predict TfL Tube Demand'.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-""",
-width=600, height=160)
+""")
 
 pre_pred_rail = PreText(text="""
 To see how the UK National Rail use would change according to the changing number of cases worldwide
 and the change in mobility in % (I used retail and recreation mobility change, as the variable most 
-correlating with National Rail Use), choose the date, number of cases, and mobility change %.
+correlating with National Rail Use), choose the date, number of cases, and mobility change %,
+then press 'Predict National Rail Demand'.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-""",
-width=600, height=160)
+""")
+
+mobility = column(pre , Spacer(height=20), fig_london_mob,toggle_london_mob, Spacer(height=20), fig_uk_mob, toggle_uk_mob)
+worldwide_cases = column(fig_deaths, toggle_deaths)
+uk_cases = column(fig_cases_uk, toggle_cases_uk)
+london_cases = column(fig_cases_london, toggle_cases_london)
+tfl_prediction = column(datePicker_tfl, newCasesWorld_tfl, mobility_tfl, preidctToggle_tfl, fig_tfl, toggle_tfl)
+rail_prediction = column(datePicker_rail, newCasesWorld_rail, mobility_rail, preidctToggle_rail, fig_rail, toggle_rail)
 
 
 l = layout(
-    [   [column(pre)],
-        [mobility],
-        [worldwide_cases],
-        [column(pre_uk)],
-        [uk_cases],
-        [london_cases],
-        [column(pre_pred_tfl)],
-        [tfl_prediction], [column(pre_pred_rail)], [rail_prediction]
+    [   [column(mobility, Spacer(height=30) ,worldwide_cases )],
+        [column(Spacer(height=40), pre_uk, Spacer(height=20), uk_cases, Spacer(height=20), london_cases)],
+        [column(Spacer(height=40), pre_pred_tfl, tfl_prediction)],
+        [column(Spacer(height=40), pre_pred_rail, rail_prediction)],
     ],
     sizing_mode="scale_both",
+    max_width = 900
 )
 
 curdoc().add_root(l)

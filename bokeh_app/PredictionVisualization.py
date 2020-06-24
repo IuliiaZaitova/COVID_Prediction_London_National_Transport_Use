@@ -70,4 +70,3 @@ class PredictionVisualization:
         transport_predicted = model.predict(X_poly)
         return transport_predicted
 viz = PredictionVisualization()
-print(viz.df_cases_transport["new_cases_uk"])
